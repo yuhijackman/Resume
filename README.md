@@ -204,7 +204,10 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
    <div>
-        <p>todo</p>
+        <p>制作物のレビューに特化したツールProofを新規で5人のエンジニアと１人のテスターで開発した</p>
+	<p>新規開発であったことで、リードエンジニアを中心に技術選定、設計などをMTGで話し合い決定していった。</p>
+	<p>サーバーサイドとフロントエンドの両方の開発を担当した</p>
+	<p>動画からサムネイルを生成する機能をAWS Lambda・Pythonを利用し開発した</p>
     </div>
 </details>
 
@@ -228,7 +231,9 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
    <div>
-        <p>todo</p>
+        <p>本ツールの保守運用を一人で担当した</p>
+	<p>フレームワークは使っておらず生のPHPで書かれていたことや、複雑化していた事もありソースコード理解なども大変であったが</p>
+	<p>こちらの保守運用を通しソースコード理解、DB設計の把握などの能力が養われた</p>
     </div>
 </details>
 
