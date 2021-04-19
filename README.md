@@ -173,7 +173,11 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
    <div>
-        <p>todo</p>
+        <p>大手広告代理店が開発する広告効果測定ツールと連携するためにAPIを開発した</p>
+	<p>APIドキュメントの作成も行った</p>
+	<p>相手企業のエンジニアとSlackを通してにコミュニケーションやMTGの設定など窓口としての役割も果たした</p>
+	<p>このプロジェクトを通し、特定の外部企業へ向けたAPI開発、社外のエンジニアとの連携、コミュニケーションの取り方などを学んだ</p>
+	<p>また、セキュリティ面を考慮しOAuth2.0をベースとした認証機能も実装しセキュアにAPIを公開する方法を学んだ</p>
     </div>
 </details>
 
