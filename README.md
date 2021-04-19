@@ -202,7 +202,7 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 ### :computer: 広告効果レポーティングツール「[AdFlow Banner Pool](https://adflow.jp/bnrpool/)」
 #### :eyes: 業務内容
 - 保守運用・改修
-#### ::whale2: サービスの概要
+#### :whale2: サービスの概要
 - 原稿ファイル・入稿情報・配信効果などの広告に関する情報を管理できる
 
 #### :wrench: 使用技術
