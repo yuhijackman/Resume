@@ -234,7 +234,7 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 ### :computer: ガス会社のマッチングサービス「[enepi](https://enepi.jp/)」
 #### :eyes: 業務内容
 - 機能追加・保守運用・改修
-#### サービスの概要
+#### :whale2: サービスの概要
 - ガス会社とガス会社を変更したい人をマッチングするサービス
 
 #### :wrench: 使用技術
