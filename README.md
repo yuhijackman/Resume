@@ -157,9 +157,9 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 - PHP, Laravel, MySQL, JavaScript, jQuery, Vue.js, Vuex, Sass
 
 #### :raising_hand: 主な担当箇所
-1. サーバーサイド・フロントエンド両方を担当
-2. 外部サービスとのAPI連携時に開発周りの窓口と実装を担当
-3. デザインツールSketchを用いた新規機能のデザイン
+- サーバーサイド・フロントエンド両方を担当
+- 外部サービスとのAPI連携時に開発周りの窓口と実装を担当
+- デザインツールSketchを用いた新規機能のデザイン
 
 #### :muscle: 特に尽力したこと
 - 外部サービスとのAPI連携
@@ -184,9 +184,9 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 - PHP, Laravel, MySQL, JavaScript, Nuxt.js, Vuex, Sass, AWS Lambda, Python
 
 #### :raising_hand: 主な担当箇所
-1. サーバーサイド・フロントエンド両方を担当
-2. デザインツールSketchを用いた新規機能のデザイン
-3. AWS Lambdaを用いた機能開発
+- サーバーサイド・フロントエンド両方を担当
+- デザインツールSketchを用いた新規機能のデザイン
+- AWS Lambdaを用いた機能開発
 
 #### :muscle: 特に尽力したこと
 - 本機能をゼロからチームで開発した
@@ -209,8 +209,8 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 - PHP, MySQL, JavaScript, jQuery, CSS
 
 #### :raising_hand: 主な担当箇所
-1. サーバーサイド・フロントエンド両方を主に一人で担当
-2. クライアントからのデータ物理削除依頼時の対応
+- サーバーサイド・フロントエンド両方を主に一人で担当
+- クライアントからのデータ物理削除依頼時の対応
 
 #### :muscle: 特に尽力したこと
 - 保守運用
@@ -241,8 +241,8 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 - Ruby, Ruby on Rails, MySQL, JavaScript, jQuery, Sass
 
 #### :raising_hand: 主な担当箇所
-1. 機能追加の際はサーバーサイド・フロントエンド両方を担当
-2. バグ修正や改善タスクにおいてはサーバーサイドを主に担当
+- 機能追加の際はサーバーサイド・フロントエンド両方を担当
+- バグ修正や改善タスクにおいてはサーバーサイドを主に担当
 
 #### :muscle: 特に尽力したこと
 - ガス料金見積もり機能の実装
