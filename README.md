@@ -134,8 +134,13 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
    <div>
-        <p>主に，<b>Atomic Design</b>を軸　<b>HTML部分をすべてBlade</b>で管理　</p>
-        <p><b>Renderless Components</b></p>
+	<p>jQueryとCakePHPのテンプレートであるctpにより管理されていたフロントエンドをVue.js/Laravel Bladeに移行した。</p>
+	<p>フロントエンド側の設計や技術選定も行い、<b>Atomic Design</b>を軸にしたコンポーネント設計で開発を行った。</p>
+	<p>コンポーネント化を行う事で、再利用性を高め、さらに機能変更、デザイン変更に柔軟にかつ少ない工数で対応できるようにした</p>
+	<p>リビルド前には非エンジニアがHTML/CSSを書いていた事もあり、冗長なコードが目立ち複数ファイルに渡り同じような記述がされておりメンテナンス性が著しく低い問題を抱えていた。</p>
+	<p>そこで、コンポーネント化と表示ロジックなどを閉じ込めたSchema定義を行うことでそれらは大きく改善された。</p>
+        <p>また、見た目に一切責務を持たないコンポーネント<b>Renderless Components</b>をVue.jsで実装したことにより</p>
+	<p>責務がそれぞれのコンポーネントの責務が明確化し、影響範囲の把握が容易になった。</p>
     </div>
 </details>
 
