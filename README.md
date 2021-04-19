@@ -140,7 +140,7 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 
 ---
 
-## :office: 2018/12 - 2020/02 : 株式会社クリエイターズマッチ
+## :office: 2018/02 - 2020/02 : 株式会社クリエイターズマッチ
 - 職務：Webアプリケーションエンジニア / サーバサイドエンジニア / フロントエンドエンジニア
 - 雇用形態：正社員
 - 在籍年数: 2年2ヶ月
