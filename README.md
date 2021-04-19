@@ -117,7 +117,7 @@
 - 日本最大級のインバウンドメディア
 
 #### :wrench: 使用技術
-PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js，Vuex, Sass, Docker
+PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docker
 
 #### :raising_hand: 主な担当箇所
 - 運用者，執筆者の要望から機能の追加や改修
@@ -154,7 +154,7 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js，Vuex, Sass, Dock
 - 主に広告代理店など企業がクライアントとして存在した
 
 #### :wrench: 使用技術
-- PHP, Laravel, MySQL, JavaScript, jQuery, Vue.js, Sass
+- PHP, Laravel, MySQL, JavaScript, jQuery, Vue.js, Vuex, Sass
 
 #### :raising_hand: 主な担当箇所
 1. サーバーサイド・フロントエンド両方を担当
@@ -181,7 +181,7 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js，Vuex, Sass, Dock
 - 動画に関してはシーンごとに修正依頼ができる
 
 #### :wrench: 使用技術
-- PHP, Laravel, MySQL, JavaScript, Nuxt.js, Sass, AWS Lambda, Python
+- PHP, Laravel, MySQL, JavaScript, Nuxt.js, Vuex, Sass, AWS Lambda, Python
 
 #### :raising_hand: 主な担当箇所
 1. サーバーサイド・フロントエンド両方を担当
