@@ -62,8 +62,8 @@
         <tr>
             <td>GoogleAppsScript</td>
             <td>1年</td>
-            <td></td>
-            <td></td>
+            <td>Vuex</td>
+            <td>2年</td>
             <td>AWS Lambda</td>
             <td>2年</td>
         </tr>
