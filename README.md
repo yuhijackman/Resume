@@ -107,44 +107,26 @@
 
 ---
 
-### :computer: インバウンドメディア「[MATCHA](https://matcha-jp.com)」の機能追加・保守運用・改修
+### :computer: インバウンドメディア「[MATCHA](https://matcha-jp.com)」
+#### :eyes: 業務内容
+- 機能追加・保守運用・改修・リビルド・要件定義・開発タスク作成・工数見積もり
+-
 #### :whale2: サービスの概要
 - 日本最大級のインバウンドメディア
 
 #### :wrench: 使用技術
-PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js，Sass
+PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js，Vuex, Sass, Docker
 
 #### :raising_hand: 主な担当箇所
 - 運用者，執筆者の要望から機能の追加や改修
 - マネタイズ施策等の立案
-- 機能開発の際の要件定義作成、開発工数見積もり
+- 新規機能開発の際の要件定義作成、開発工数見積もり
 - メディア改善時の立案
+- システム老朽化等に伴う再開発(リビルド)の実施．
+- リビルドにおいては、MVCにおけるVCを主に担当し、フロントエンド全体の技術選定・コンポーネント設計・実装を担当
 
 #### :muscle: 特に尽力したこと
-
-todo
-
-<details>
-   <summary><b>詳細はこちら :point_right:</b></summary>
-   <div>
-        <p>todo</p>
-    </div>
-</details>
-
-----
-
-### :computer: インバウンドメディア「[MATCHA](https://matcha-jp.com)」のリビルド開発(所要期間: 1年)
-- 日本最大級のインバウンドメディア「[MATCHA](https://matcha-jp.com)」のシステム老朽化等に伴う再開発(リビルド)の実施．
-
-#### :wrench: 使用技術
-- PHP(7.4)，Laravel(8.x)，Blade，Vue.js，Vuex，Scss，Docker，MySQL．
-
-#### :raising_hand: 主な担当箇所
-1. MVCにおけるVCを主に担当
-2. フロントエンドは，全体の技術選定・コンポーネント設計・実装を担当
-
-#### :muscle: 特に尽力したこと
-- コンポーネント設計
+- リビルドにおいてのフロントエンド開発(コンポーネント設計)
 
 <details>
    <summary><b>詳細はこちら :point_right:</b></summary>
@@ -161,7 +143,9 @@ todo
 - 雇用形態：正社員
 - 在籍年数: 2年2ヶ月
 ---
-### :computer: 制作に特化したプロジェクト管理ツール「[AdFlow](https://adflow.jp/)」の機能追加・保守運用・改修・外部サービスとの連携
+### :computer: 制作に特化したプロジェクト管理ツール「[AdFlow](https://adflow.jp/)」
+#### :eyes: 業務内容
+- 機能追加・保守運用・改修・外部サービスとの連携
 #### :whale2: サービスの概要
 - 制作の発注から納品までのスケジュールやタスク管理や、過去の制作物の管理業務など制作に関わる業務を効率化させるツール
 - AdFlow内で制作物のレビューなどができ、制作者と発注者の間でのコミュニーケーションも当ツール内で完結
@@ -186,7 +170,9 @@ todo
 
 ---
 
-### :computer: 制作物上に直接コメントを書き込める修正依頼ツール「[AdFlow Proof](https://adflow.jp/proof/movie/)」の新規開発・機能追加・保守運用・改修
+### :computer: 制作物上に直接コメントを書き込める修正依頼ツール「[AdFlow Proof](https://adflow.jp/proof/movie/)」
+#### :eyes: 業務内容
+- 新規開発・機能追加・保守運用・改修
 #### :whale2: サービスの概要
 - 制作物に対して、レビューやコメントができる
 - 発注者から制作者への制作物への修正依頼を手軽に直感的にできる
@@ -211,7 +197,9 @@ todo
 
 ---
 
-### :computer: 広告効果レポーティングツール「[AdFlow Banner Pool](https://adflow.jp/bnrpool/)」の保守運用・改修
+### :computer: 広告効果レポーティングツール「[AdFlow Banner Pool](https://adflow.jp/bnrpool/)」
+#### :eyes: 業務内容
+- 保守運用・改修
 #### ::whale2: サービスの概要
 - 原稿ファイル・入稿情報・配信効果などの広告に関する情報を管理できる
 
@@ -241,7 +229,9 @@ todo
 
 ---
 
-### :computer: ガス会社のマッチングサービス「[enepi](https://enepi.jp/)」機能追加・保守運用・改修
+### :computer: ガス会社のマッチングサービス「[enepi](https://enepi.jp/)」
+#### :eyes: 業務内容
+- 機能追加・保守運用・改修
 #### サービスの概要
 - ガス会社とガス会社を変更したい人をマッチングするサービス
 
