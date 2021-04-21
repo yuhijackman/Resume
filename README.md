@@ -128,7 +128,7 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
 - システム老朽化等に伴う再開発(リビルド)の実施．
 - リビルドにおいては、MVCにおけるVCを主に担当し、フロントエンド全体の技術選定・コンポーネント設計・実装を担当
 
-#### :muscle: リビルドのフロントエンド開発を通して解決した問題と技術選定
+#### :muscle: リビルドのフロントエンド開発を通して解決した問題と技術選定 :muscle:
 - コンポーネント設計とVue.jsの導入
 
 <details>
