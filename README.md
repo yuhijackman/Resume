@@ -136,7 +136,7 @@ PHP，CakePHP，Laravel, MySQL，JavaScript，jQuery，Vue.js, Vuex, Sass, Docke
    <div>
 	<h2>前提情報</h2>
 	<p>jQueryとCakePHPのテンプレートであるctpにより管理されていたフロントエンドをVue.js/Laravel・Bladeに移行した。</p>
-	<p>フロントエンド側を任され設計使用技術の選定などを行った</p> 
+	<p>フロントエンド側を任され設計や使用技術の選定などを行った</p> 
 	<h2>リビルド前に抱えていた問題</h2>
 	   <ul>
 	   <li>ロジックとUIが深く依存しあっていた</li>
