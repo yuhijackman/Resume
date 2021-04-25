@@ -72,7 +72,7 @@
             <td></td>
             <td></td>
             <td>Webpack</td>
-            <td>年</td>
+            <td>3年</td>
         </tr>
 				<tr>
             <td>TypeScript</td>
