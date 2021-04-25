@@ -71,8 +71,8 @@
             <td>3年</td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td>Webpack</td>
+            <td>年</td>
         </tr>
 				<tr>
             <td>TypeScript</td>
