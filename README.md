@@ -46,7 +46,7 @@
             <td>MySQL</td>
             <td>4年</td>
             <td>Vue.js</td>
-            <td>3年</td>
+            <td>4年</td>
             <td>Docker</td>
             <td>3年</td>
         </tr>
@@ -56,7 +56,7 @@
             <td>Nuxt.js</td>
             <td>2年</td>
             <td>jQuery</td>
-            <td>3年</td>
+            <td>4年</td>
         </tr>
         <tr>
             <td>GoogleAppsScript</td>
@@ -102,8 +102,9 @@
 3. クライアントサイドにおいてのパフォーマンス改善
 
 # :rocket: 職務経歴
+## :office: 2021/08 - 現在 : ラクスル株式会社
 
-## :office: 2020/02 - 現在 : 株式会社MATCHA
+## :office: 2020/02 - 2021/07 : 株式会社MATCHA
 - 職務：Webアプリケーションエンジニア / サーバサイドエンジニア / フロントエンドエンジニア
 - 雇用形態：正社員
 - 在籍年数: 1年以上
